@@ -1,0 +1,5 @@
+{
+  "name": "Analog & Digital Timer",
+  "description": "A sleek, modern timer application featuring both analog and digital displays. Users can set a time limit, start, pause, stop, and reset the timer. The interface uses a stylish orange and black color scheme.",
+  "requestFramePermissions": []
+}
